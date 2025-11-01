@@ -1,0 +1,1 @@
+Projeto feito para o componente curricular "Interface Hardware Software" do curso de engenharia de computação da Universidade Federal de Sergipe (UFS). Se estiver cursando esse componente curricular, copie por sua conta e risco. 
